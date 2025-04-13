@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="stylesheet" href="./style.css">
+  <title>Simple Todo</title>
+</head>
+
+<body>
+  <div class="container">
+    <div class="stat-container">
+      <div class="details">
+        <h1 class="heading">Simple Todo</h1>
+        <p class="quote">Keep it up</p>
+        <div class="progress-bar">
+          <div id="progress"></div>
+        </div>
+      </div>
+      <div>
+        <p id="stat-number">0/0</p>
+      </div>
+    </div>
+
+    <form action="#" autocomplete="off">
+      <input type="text" id="task-input" placeholder="Write your task">
+      <input type="submit" value="+" id="submit-btn">
+    </form>
+
+    <ul id="task-list"></ul>
+  </div>
+</body>
+<script src="./script.js"></script>
+
+</html>
