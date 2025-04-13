@@ -20,3 +20,8 @@ A minimal and stylish todo list web app built with **HTML**, **CSS**, and **Java
 - **HTML5**
 - **CSS3**
 - **Vanilla JavaScript**
+
+### 🔗 Live Demo
+
+You can check out the live version of the app here:  
+[**Simple Todo App on GitHub Pages**](https://abhijitsinha-github.github.io/Simple-Todo-List/)
