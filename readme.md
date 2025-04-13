@@ -13,7 +13,7 @@ A minimal and stylish todo list web app built with **HTML**, **CSS**, and **Java
 
 ## 📸 Preview
 
-![App Screenshot](./images/screenshot.png) _(You can add a screenshot here)_
+![App Screenshot](./images/screenshot.png)
 
 ## 🛠️ Tech Stack
 
